@@ -1,0 +1,11 @@
+# Ignore system files
+*.DS_Store
+*.pyc
+__pycache__/
+.env
+.ipynb_checkpoints/
+
+# Ignore data files if needed
+*.csv
+*.xlsx
+data/original/
